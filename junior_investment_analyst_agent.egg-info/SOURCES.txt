@@ -1,0 +1,17 @@
+setup.py
+agents/__init__.py
+agents/coordination_agent.py
+agents/fundamental_agent.py
+agents/technical_agent.py
+apis/__init__.py
+backend/__init__.py
+data/__init__.py
+data/data_models.py
+frontend/__init__.py
+junior_investment_analyst_agent.egg-info/PKG-INFO
+junior_investment_analyst_agent.egg-info/SOURCES.txt
+junior_investment_analyst_agent.egg-info/dependency_links.txt
+junior_investment_analyst_agent.egg-info/top_level.txt
+tests/__init__.py
+tests/test_coordination_agent.py
+utils/__init__.py
